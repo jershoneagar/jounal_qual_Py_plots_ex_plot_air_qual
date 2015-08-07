@@ -1,4 +1,4 @@
-# jounal_qual_Py_plots_ex_plot_air_qual
+# journal_qual_Py_plots_ex_plot_air_qual
 A Python example plot with primary and secondary axes, one legend, and offset axis spines
 
 The data that are read into this Py notebook reside in .csv files with the following format
